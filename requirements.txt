@@ -8,3 +8,5 @@ requests==2.31.0
 Werkzeug==2.3.7
 scikit-surprise
 requests
+tensorflow
+gunicorn
